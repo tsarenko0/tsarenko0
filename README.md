@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on zelvex.ru<br>👀 I am interested in NestJs and Typescript<br>🌱 I’m currently learning advanced algorithms and data structures<br>📞 How to reach me: telegram - @tsarenko0
+🔭 I’m currently working on zelvex.ru<br>👀 I am interested in NestJs and Typescript<br>🏆 Winner of hackathon PROD 2026 in Minsk<br>🌱 I’m currently learning advanced algorithms and data structures<br>📞 How to reach me: telegram - @tsarenko0
 
 
 # 💻 Tech Stack:
